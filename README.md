@@ -8,3 +8,5 @@ Here is some more text.
 Plus a new line.
 
 Editing text in Dev Branch.
+
+This line will improve the ReadMe.
